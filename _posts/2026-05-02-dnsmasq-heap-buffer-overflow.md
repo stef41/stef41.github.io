@@ -2,7 +2,6 @@
 layout: post
 title: "dnsmasq: Heap Buffer Overflow in DNS Cache Insertion (CVSS 9.8)"
 date: 2026-05-02
-categories: [security, vulnerability, dnsmasq]
 tags: [heap-overflow, rce, dns, cwe-122]
 ---
 

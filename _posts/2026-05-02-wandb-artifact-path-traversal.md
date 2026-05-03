@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "W&B Artifacts: Path Traversal via Malicious Manifest (Zip Slip for ML)"
+title: "WandB Artifacts: Path Traversal via Malicious Manifest (Zip Slip for ML)"
 date: 2026-05-02
-categories: [security, vulnerability, wandb]
 tags: [path-traversal, arbitrary-file-write, cwe-22, ml-supply-chain]
 ---
 
