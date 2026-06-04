@@ -1,4 +1,4 @@
-title: Zacharie Bugaud
+title: stef41
 description: Security research & vulnerability disclosures
 url: "https://stef41.github.io"
 baseurl: ""
@@ -6,7 +6,7 @@ baseurl: ""
 theme: minima
 
 author:
-  name: Zacharie Bugaud
+  name: stef41
   email: zach.bg@outlook.com
 
 plugins:
