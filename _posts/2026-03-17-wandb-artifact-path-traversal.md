@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WandB Artifacts: Path Traversal via Malicious Manifest (Zip Slip for ML)"
-date: 2026-05-02
+date: 2026-03-17
 tags: [path-traversal, arbitrary-file-write, cwe-22, ml-supply-chain]
 ---
 

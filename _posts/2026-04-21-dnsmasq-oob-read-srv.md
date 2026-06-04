@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "dnsmasq: Out-of-Bounds Read via SRV Record with rdlen=0 (CVSS 7.5)"
-date: 2026-05-02
+date: 2026-04-21
 tags: [oob-read, dos, dns, cwe-125, srv]
 ---
 
